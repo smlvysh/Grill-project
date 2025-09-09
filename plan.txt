@@ -1,0 +1,54 @@
+Java Script is a programming language
+Before, it was known as EcmaScript but later its name was changed to JavaScript
+It is not the same with java, JavaScript and Java are two different things
+It can be applied to mobile, web(Frontend+Backend), TV, AI, and etc.
+It makes our site interactive
+There are 3 ways of using JavaScript(Browser Console, script tag, Node js), mostly we use it in script tag and it should be placed at the bottom side of body, before the body closes, in the tag we can work with console.log but its better to open a file called main.js and link connect it to our script tag so that there wont be a mess in your code
+Console log is a test for developers
+its used in terms of arithmatic operations
+Every programming languages are made of C++ which is known as the fastest language
+
+there are different types of functions
+"Alert" just a note that appears when you go in the site(just notifies you about something)
+"Confirm" with options either to confirm the information or cancel it
+"Prompt" to add your own info, like input
+
+Variebles(like a box with names on it to keep your stuff)
+there are 3 types of them
+"Var"
+- used in older version(is not used)
+- several times can be given but it takes only the last ones value
+- can be left empty
+- value can be changed
+- "undefined" if given after console log
+
+"Let"
+- can be used only once
+- can be left empty
+- value can be changed
+- "error" if given after console log
+
+"Const"
+-can be used only once
+-can NOT be left empty
+- value can NOT be changed
+- "error" if given after console log
+
+= is used to assign the right value to the left value
+
+Data types
+there are 2 types of data in js(Primitive, Non-primitive(Reference))
+"Primitive"
+-string (anything thats written inside quotes ``, "", '')
+-number (any number, "infinity, NaN(not a number) are also considered numbers")
+-null (there is a variable but the value is empty ( like you open a box but its empty))
+-undefined (there is a variable but there is no value )
+-boolean (true, false)
+-bigint (JS doesnt count correctly after the biggest 16 roomed number, so we add "n" to the end of your number so that it counts correctly, bigint number can only be added to bigint number, you cannot add just a numvber to bigint number)
+-symbol (creates a unique value, if u compare 2 symbols there r never gonna be true because they're unique)
+
+"Non-primitive (Reference)"
+-object (smth like a container with names and values, its the main way to group and organize data in js)
+
+Type conversion
+-"typeof" is an operator that tells you the type of a value or variable
